@@ -21,3 +21,7 @@ The naming convention for Slide ID is broken down into following fields:
         2: Surepath
 
 **ZZZZZ** : serial number
+
+### Note
+#### De-Identification
+It needs to do the de-identification process on this data sheet, espcially on the fields of 'Slide Label' and 'P
